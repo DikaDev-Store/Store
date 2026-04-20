@@ -8,6 +8,8 @@ const fs = require("fs")
   global.ownerName   = "Dika"                        
   global.namaStore = "D Store"  
   global.botName   = "D Bot"    
+  global.pairing_code = true
+  global.number_bot = "6285235530621" // nomor bot lu, pake 62
 
 
   global.apikeyRama = "rg_d1da9cb1c129a24a628403c4c6413b"
